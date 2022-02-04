@@ -1,0 +1,116 @@
+{
+    "product" : [
+        {
+            "id" : 1,
+            "name": "Apple iPhone X 256GB",
+            "img" : "https://www.backmarket.co.uk/cdn-cgi/image/format=auto,quality=75,width=640/https://d1eh9yux7w8iql.cloudfront.net/product_images/36836_614ca137-616f-457d-b12f-739ed8c2bafa.jpg",
+            "price" : "99999",
+            "category" : "phone"
+        },
+        {
+            "id" : 2,
+            "name": "Apple iPhone 7 32GB",
+            "img" : "https://brandbazaarbd.com/wp-content/uploads/2017/06/iphone_matte_black_1.jpg",
+            "price" : "40024",
+            "category" : "phone"
+        },
+        {
+            "id" : 3,
+            "name": "Apple iPhone X 64GB",
+            "img" : "https://drop.ndtv.com/TECH/product_database/images/913201720152AM_635_iphone_x.jpeg",
+            "price" : "84499",
+            "category" : "phone"
+        },
+        {
+            "id" : 4,
+            "name": "IPhone XS Max 64GB",
+            "img" : "https://i.gadgets360cdn.com/products/large/1536782676_635_iphone_xs_max.jpg",
+            "price" : "99999",
+            "category" : "phone"
+        },
+        {
+            "id" : 5,
+            "name": "Apple iPhone 8 Plus 64GB",
+            "img" : "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone8plus-gold?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1542226472760",
+            "price" : "105000",
+            "category" : "phone"
+        },
+        {
+            "id" : 6,
+            "name": "Apple iPhone 6s Plus 64 GB",
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrb-AwmcdYyRalDH5hjVgihwLKxTBYGxvp0Q&usqp=CAU",
+            "price" : "65099",
+            "category" : "phone"
+        },
+        {
+            "id" : 7,
+            "name": "LG 260 Litres  Refrigerator",
+            "img" : "https://www.lg.com/bd/images/refrigerators/MD07533048/Gallery/N01_GL-S292RDSX-Refrigerators-Front-View-D-01.jpg",
+            "price" : "700099",
+            "category" : "fridge"
+        },
+        {
+            "id" : 8,
+            "name": "26 cu. ft. Smart wi-fi InstaView",
+            "img" : "https://www.lg.com/us/images/refrigerators/md05966856/gallery/D-01.jpg",
+            "price" : "65099",
+            "category" : "fridge"
+        },
+        {
+            "id" : 9,
+            "name": "LG 306L Bottom Mount Fridge",
+            "img" : "https://azcd.harveynorman.com.au/media/catalog/product/g/b/gb-335pl-lg-335l-bottom-mount-fridge-stainless-3_1.jpg",
+            "price" : "30599",
+            "category" : "fridge"
+        },
+        {
+            "id" : 10,
+            "name": "OLA S1 Right Front Three",
+            "img" : "https://imgd.aeplcdn.com/424x424/n/cw/ec/98491/s1-right-front-three-quarter-7.jpeg?isig=0&q=85",
+            "price" : "30599",
+            "category" : "bick"
+        },
+        {
+            "id" : 11,
+            "name": "Ola Electric Scooter",
+            "img" : "https://thrustzoneindia.com/wp-content/uploads/2021/08/ei_1629189332868-removebg-preview.png",
+            "price" : "30599",
+            "category" : "bick"
+        },
+        {
+            "id" : 12,
+            "name": "TVS Jupiter ZX Disc Launched",
+            "img" : "https://media.zigcdn.com/media/content/2020/Aug/tvs_jupiter_zx_disc1.jpg",
+            "price" : "30599",
+            "category" : "bick"
+        },
+        {
+            "id" : 13,
+            "name": "Theo Klein - Miele Washing Machine",
+            "img" : "https://m.media-amazon.com/images/I/71S5dyn7GQL.jpg",
+            "price" : "30599",
+            "category" : "bick"
+        },
+        {
+            "id" : 14,
+            "name": "White Samsung Washing Machine",
+            "img" : "https://5.imimg.com/data5/XL/MI/MY-45738738/samsung-washing-machine-500x500.jpg",
+            "price" : "30599",
+            "category" : "bick"
+        },
+        {
+            "id" : 15,
+            "name": "10kg Cyclonic Care Washing",
+            "img" : "https://www.electrolux.com.ph/remote.jpg.ashx?urlb64=aHR0cHM6Ly93d3cuZWxlY3Ryb2x1eC5pbS9wcm9kdWN0cy9YTUxMQVJHRVJJTUFHRS9FV1QxMDVXTl9TR192Ml83MDB4NzAwLnBuZw&hmac=KqP8eHoc9G0",
+            "price" : "30599",
+            "category" : "bick"
+        },
+        {
+            "id" : 16,
+            "name": "Semi Automatic with Hexa Storm",
+            "img" : "https://images.samsung.com/is/image/samsung/in-semi-auto-wt80r4200lgtl-wt80r4200lg-tl-frontblue-218624937?$720_576_PNG$",
+            "price" : "30599",
+            "category" : "bick"
+        }
+    ]
+}
