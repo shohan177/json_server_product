@@ -1,4 +1,26 @@
 {
+    "category" :[
+         {
+             "id": 1,
+             "name" : "Phone",
+             "slug" : "phone"
+         },
+         {
+             "id": 2,
+             "name" : "Fridge",
+             "slug" : "fridge"
+         },
+         {
+             "id": 3,
+             "name" : "Bick",
+             "slug" : "bick"
+         },
+         {
+             "id": 4,
+             "name" : "Washing Machine",
+             "slug" : "washing_machine"
+         }
+    ],
     "product" : [
         {
             "id" : 1,
@@ -89,28 +111,28 @@
             "name": "Theo Klein - Miele Washing Machine",
             "img" : "https://m.media-amazon.com/images/I/71S5dyn7GQL.jpg",
             "price" : "30599",
-            "category" : "bick"
+            "category" : "washing_machine"
         },
         {
             "id" : 14,
             "name": "White Samsung Washing Machine",
             "img" : "https://5.imimg.com/data5/XL/MI/MY-45738738/samsung-washing-machine-500x500.jpg",
             "price" : "30599",
-            "category" : "bick"
+            "category" : "washing_machine"
         },
         {
             "id" : 15,
             "name": "10kg Cyclonic Care Washing",
             "img" : "https://www.electrolux.com.ph/remote.jpg.ashx?urlb64=aHR0cHM6Ly93d3cuZWxlY3Ryb2x1eC5pbS9wcm9kdWN0cy9YTUxMQVJHRVJJTUFHRS9FV1QxMDVXTl9TR192Ml83MDB4NzAwLnBuZw&hmac=KqP8eHoc9G0",
             "price" : "30599",
-            "category" : "bick"
+            "category" : "washing_machine"
         },
         {
             "id" : 16,
             "name": "Semi Automatic with Hexa Storm",
             "img" : "https://images.samsung.com/is/image/samsung/in-semi-auto-wt80r4200lgtl-wt80r4200lg-tl-frontblue-218624937?$720_576_PNG$",
             "price" : "30599",
-            "category" : "bick"
+            "category" : "washing_machine"
         }
     ]
 }
